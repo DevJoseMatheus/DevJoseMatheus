@@ -4,3 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoseMatheus&hide_progress=true)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.josematheus@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
